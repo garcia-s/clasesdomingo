@@ -1,0 +1,14 @@
+// -------------------------- OPERADORES ARITMETICOS ---------------
+// == ---IGUAL QUE
+// === --- ESTRICTAMENTE IGUAL QUE
+// !=  -DIFERENTE A
+// !==  ----ESTRICTAMENTE DIFERENTE A
+// >  MAYOR QUE
+// >=  MAYOR IGUAL QUE
+// < MENOR QUE 
+// <= MENOR IGUAL QUE
+// ! NEGACION
+// && AND --- REGRESA TRUE SI AMBAS CONDICIONES SE CUMPLE
+// || OR --- REGRESA TRUE SI AL MENOS UNA CONDICION SE CUMPLE
+
+console.log(3 > 4 || 2 == 2)
